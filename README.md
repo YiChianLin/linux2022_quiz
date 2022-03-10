@@ -6,3 +6,7 @@ linux2022 quiz program test for C
 ## [第一周測驗 筆記](https://hackmd.io/@YiChianLin/linux2022-quiz1)
 
 ## [第二周測驗 筆記](https://hackmd.io/@YiChianLin/linux2022-quiz2)
+
+## [第三周測驗 筆記](https://hackmd.io/@YiChianLin/linux2022-quiz3)
+
+## [第四周測驗 筆記](https://hackmd.io/@YiChianLin/linux2022-quiz4)
