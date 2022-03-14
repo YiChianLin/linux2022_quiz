@@ -11,11 +11,9 @@ uint8_t rev8(uint8_t x) {
 
 int main(int argc, char **argv) {
 
-  uint8_t n = 9;
-  printf("origin : 0x%x\n", n);
-  printf("value : %d\n", n);
+  uint8_t n = 0x35;
+  printf("origin : 0x%x value : %d\n", n, n);
   n = rev8(n);
-  printf("after rev : 0x%x\n", n);
-  printf("value : %d\n", n);
+  printf("after rev : 0x%x value : %d\n", n, n);
   return 0;
 }
